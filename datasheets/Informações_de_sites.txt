@@ -1,0 +1,12 @@
+Kit FATEC:
+
+Validação de uso:
+https://github.com/zhivko/LaserMeasure_VL53L0X/tree/master
+
+Distribuidor no Brasil:
+https://www.robocore.net/wifi/esp32-oled-bateria-18650
+
+Loja on-line do Fabricante: 
+https://www.diymore.cc/products/diymore-esp32-0-96-inch-oled-display-wifi-bluetooth-18650-battery-shield-development-board-cp2102-module-for-arduino?_pos=13&_sid=ecea9f650&_ss=r
+
+
